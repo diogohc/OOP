@@ -1,0 +1,23 @@
+Jorge Henriques, jorge@henriques.com, Adaptive Computation, 1, 214748364
+Adriana Leal, adriana@leal.com, Adaptive Computation,Tese 1,31/06/2021, Jorge Henriques
+Daniel Ribeiro, daniel@ribeiro.com, Adaptive Computation, Tese 2, 25/07/2022, Jorge Henriques
+Penousal Machado, penousal@machado.com, Cognitive and Media Systems, 2, 239790010
+Ana Rodrigues, ana@rodrigues.com, Cognitive and Media Systems, Tese 3, 20/05/2021, Penousal Machado
+Antonio Cruz, antonio@cruz.com, Cognitive and Media Systems, Tese 4, 25/07/2021, Penousal Machado
+Nuno Lourenco, nuno@lourenco.com, Evolutionary and Complex Systems, 3, 239790000
+Guilherme Silva, guilherme@silva.com, Evolutionary and Complex Systems, Tese 5, 30/08/2021, Nuno Lourenco
+Leonardo Vieira, leonardo@vieira.com, Evolutionary and Complex Systems, Tese 6, 08/07/2021, Nuno Lourenco
+Licinio Roque, licinio@roque.com, Information Systems, 4, 239701000
+Alexandre Fernandes, alexandre@fernandes.com, Information Systems, Tese 7, 01/04/2021, Licinio Roque
+Jose Campos, jose@campos.com, Information Systems, Tese 8, 09/03/2021, Licinio Roque
+Paulo Simoes, paulo@simoes.com, Communications and Telematics, 5, 239701001
+Duarte Raposo, duarte@raposo.com, Communications and Telematics, Tese 9, 29/04/2021, Paulo Simoes
+Luis Rosa, luis@rosa.com, Communications and Telematics, Tese 10, 28/07/2021, Paulo Simoes
+Henrique Madeira, henrique@madeira.com, Software and Systems Engineering, 6, 239701002
+Diogo Carvalho, diogo@carvalho.com, Software and Systems Engineering, Tese 11, 12/05/2021, Henrique Madeira
+Pedro Lucas, pedro@lucas.com, Software and Systems Engineering, Tese 12, 23/03/2021, Henrique Madeira
+Americo Costa, americo@costa.com, Adaptive Computation, 7, 239701003
+Catarina Silva, catarina@silva.com, Evolutionary and Complex Systems, 8, 239701004
+Isabel Rodrigues, isabel@rodrigues.com, Evolutionary and Complex Systems, 9, 239701005
+Ricardo Tavares, ricardo@tavares.com, Communications and Telematics, 10, 239701006
+Flavia Santiago, flavia@santiago.com, Software and Systems Engineering, 11, 239701007

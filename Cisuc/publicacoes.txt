@@ -1,0 +1,25 @@
+Artigo Conferencia,Professor Nuno Lourenco, ArtigoConferencia 1, 2005, 100,Nome Conferencia 1,25/09/2003,Local 1
+Artigo Revista,A. Leal/L. Rosa, ArtigoRevista 1, 2020, 523, Nome Revista 1, 13/09/2020, 56
+Capitulo Livro,Professor Jorge Henriques/Professor Henrique Madeira, Capitulo Livro 1,2015,15000, Nome Capitulo 1, 19, 47
+Livro,Professor Licinio Roque/A. Fernandes, Livro 1, 2019, 3556, Editora 1, 5845
+Livro Artigos Conferencia,Professor Flavia Santiago/Professor Ricardo Tavares, Livro Artigo Conferencias 1, 2011, 6781, Nome Conferencia 6, 3
+Artigo Conferencia,A. Fernandes/Professor Ricardo Tavares/A. Cruz, ArtigoConferencia 2, 2003, 1000,Nome Conferencia 2,31/03/2000, Local 2
+Artigo Revista, J. Campos, ArtigoRevista 2, 2020, 432, Nome Revista 2,02/02/2020, 98
+Capitulo Livro,Professor Paulo Simoes/A. Leal , Capitulo Livro 2, 2012,312, Nome Capitulo 2,257,369
+Livro,Professor Nuno Lourenco/C. Silva , Livro 2, 2018, 3556, Editora 2,985
+Livro Artigos Conferencia,Professor Ricardo Tavares/Professor Penousal Machado/D. Ribeiro, Livro Artigo Conferencias 2, 2009, 6781, Nome Conferencia 7, 4
+Artigo Conferencia,G. Silva/P. Simoes , ArtigoConferencia 3, 2001, 357,Nome Conferencia 3, 23/03/1999, Local 3
+Artigo Revista,P. Lucas, ArtigoRevista 3, 2016, 5895, Nome Revista 3, 15/01/2016, 135
+Capitulo Livro,D. Raposo/Professor Flavia Santiago, Capitulo Livro 3,2013,8954, Nome Capitulo 3, 2,25
+Livro,Professor Licinio Roque/A. Cruz , Livro 3, 2018, 3556, Editora 3, 89745
+Livro Artigos Conferencia,L. Vieira/A. Rodrigues, Livro Artigo Conferencias 3, 2014, 6781, Nome Conferencia 8, 5
+Artigo Conferencia,J. Campos/Professor Isabel Rodrigues,ArtigoConferencia 4, 2015, 529, Nome Conferencia 4,27/06/2015, Local 4
+Artigo Revista,Professor Licinio Roque/L. Rosa, ArtigoRevista 4, 2006, 788, Nome Revista 4, 30/04/2006,18
+Capitulo Livro,G. Silva/D. Raposo, Capitulo Livro 4,2010,5698, Nome Capitulo 4, 236,300
+Livro,J. Campos, Livro 4, 2007, 3556, Editora 4, 5641
+Livro Artigos Conferencia,Professor Americo Costa, Livro Artigo Conferencias 4, 2019, 6781, Nome Conferencia 9, 2
+Artigo Conferencia,G. Silva/A. Leal, ArtigoConferencia 5, 2002, 256, Nome Conferencia 5, 22/01/2002, Local 5
+Artigo Revista,Professor Penousal Machado/Professor Catarina Silva/P. Lucas , ArtigoRevista 5, 2009, 98, Nome Revista 5, 12/09/2009, 65
+Capitulo Livro,Professor Paulo Simoes, Capitulo Livro 5,2013,1678, Nome Capitulo 5, 425,480
+Livro,D. Raposo/G. Silva, Livro 5, 2011, 3556, Editora 5, 65446
+Livro Artigos Conferencia,Professor Jorge Henriques/Professor Flavia Santiago , Livro Artigo Conferencias 5, 2018, 6781, Nome Conferencia 10, 6
